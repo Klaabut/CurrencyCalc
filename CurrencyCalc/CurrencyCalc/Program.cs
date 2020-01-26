@@ -36,10 +36,10 @@ namespace CurrencyCalc
             using (var responseReader = new StreamReader(webStream))
             {
                 var response = responseReader.ReadToEnd();
-                var currencyDetails = JsonConvert.DeserializeObject<List<CurrencyDetails>>(response);
-                Console.WriteLine(currencyDetails[0].Base);
-                Console.WriteLine(currencyDetails[0].Date);
-                Console.WriteLine(currencyDetails[0].rates[0].CAD);
+                CurrencyDetails currencyDetails = JsonConvert.DeserializeObject<CurrencyDetails>(response);
+                Console.WriteLine(currencyDetails.Base);
+                Console.WriteLine(currencyDetails.Date);
+                Console.WriteLine(currencyDetails.rates[0].CAD);
                 
             }
         }
