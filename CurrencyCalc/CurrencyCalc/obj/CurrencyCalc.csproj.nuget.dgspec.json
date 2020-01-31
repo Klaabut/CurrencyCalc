@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Karl\\Desktop\\VS\\CurrencyCalc\\CurrencyCalc\\CurrencyCalc\\CurrencyCalc.csproj": {}
+    "C:\\Users\\karlp\\Desktop\\VS\\CurrencyCalc\\CurrencyCalc\\CurrencyCalc\\CurrencyCalc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Karl\\Desktop\\VS\\CurrencyCalc\\CurrencyCalc\\CurrencyCalc\\CurrencyCalc.csproj": {
+    "C:\\Users\\karlp\\Desktop\\VS\\CurrencyCalc\\CurrencyCalc\\CurrencyCalc\\CurrencyCalc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karl\\Desktop\\VS\\CurrencyCalc\\CurrencyCalc\\CurrencyCalc\\CurrencyCalc.csproj",
+        "projectUniqueName": "C:\\Users\\karlp\\Desktop\\VS\\CurrencyCalc\\CurrencyCalc\\CurrencyCalc\\CurrencyCalc.csproj",
         "projectName": "CurrencyCalc",
-        "projectPath": "C:\\Users\\Karl\\Desktop\\VS\\CurrencyCalc\\CurrencyCalc\\CurrencyCalc\\CurrencyCalc.csproj",
-        "packagesPath": "C:\\Users\\Karl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karl\\Desktop\\VS\\CurrencyCalc\\CurrencyCalc\\CurrencyCalc\\obj\\",
+        "projectPath": "C:\\Users\\karlp\\Desktop\\VS\\CurrencyCalc\\CurrencyCalc\\CurrencyCalc\\CurrencyCalc.csproj",
+        "packagesPath": "C:\\Users\\karlp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\karlp\\Desktop\\VS\\CurrencyCalc\\CurrencyCalc\\CurrencyCalc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Karl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\karlp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
